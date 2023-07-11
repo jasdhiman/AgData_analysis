@@ -1,0 +1,8 @@
+"0","```r
+# use scale_y_continous function with user defined values
+temp_plot + 
+  scale_y_continuous(breaks = seq(0, 30, by = 2)) -> temp_plot
+
+#viewing
+temp_plot
+```"

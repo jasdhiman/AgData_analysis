@@ -1,0 +1,6 @@
+"0","# we will use MUTATE function"
+"0","  # mutate is used to create, delete, or modify columns"
+"0",""
+"0","cropdata %>%"
+"0","  mutate(parameter = paste(element, unit, sep = '_'), element = NULL, unit = NULL) -> cropdata2 "
+"0",""

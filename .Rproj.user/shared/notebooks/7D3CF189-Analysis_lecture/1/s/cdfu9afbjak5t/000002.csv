@@ -1,0 +1,12 @@
+"0","```r
+cropdata7 %>%
+  filter(category == 'grapes' & country_or_area == 'Canada') %>%
+  ggplot(aes(x = factor(year), y = yield, group=1)) +
+  geom_line() -> temp_plot
+
+# group = 1 is used to tell R that only 1 group is present to draw 1 line
+# group argumnent is used to create multiple lines on same plot based on a defined group
+
+# viewing
+temp_plot
+```"

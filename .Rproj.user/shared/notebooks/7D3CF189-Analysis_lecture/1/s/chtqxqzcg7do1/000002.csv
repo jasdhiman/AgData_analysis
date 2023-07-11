@@ -1,0 +1,14 @@
+"0","```r
+# use 'fill' command to define a class in ggplot line
+cropdata7 %>%
+  filter(category == 'grapes') %>%
+  ggplot(aes(x = reorder(country_or_area, -yield), y = yield, fill = country_or_area)) +
+  geom_boxplot(alpha = 0.2) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3)) +
+  ggtitle('Distribution of Grape Yields Across Selected Countries, 1991-2000 (tonnes/Ha)')+
+  ylab('Yield (tonnes/Ha)') +
+  xlab('Country') -> temp_plot
+
+#viewing
+temp_plot
+```"

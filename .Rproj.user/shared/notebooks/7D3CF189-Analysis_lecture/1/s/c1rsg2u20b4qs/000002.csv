@@ -1,0 +1,7 @@
+"0","```r
+# using ggtitle, xlab and ylab functions
+temp_plot +
+  ggtitle('Distribution of Grape Yields Across Selected Countries (tonnes/Ha)') +
+  ylab('Yield (tonnes/Ha)') +
+  xlab('Country')
+```"

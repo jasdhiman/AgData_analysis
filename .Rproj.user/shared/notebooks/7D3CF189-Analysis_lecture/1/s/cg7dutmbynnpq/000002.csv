@@ -1,0 +1,6 @@
+"0","```r
+temp_plot + 
+  ggtitle('Grape Yield (tonnes/Ha) Trend in Canada (1991-2000)') +
+  ylab('Yield (tonnes/Ha)') +
+  xlab('Year')
+```"

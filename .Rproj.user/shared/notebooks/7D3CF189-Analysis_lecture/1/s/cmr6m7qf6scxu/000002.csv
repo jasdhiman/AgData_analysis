@@ -1,0 +1,21 @@
+"0","```r
+pairwise.t.test(ttestdata$yield, ttestdata$country_or_area)
+
+```"
+"1","
+	Pairwise comparisons using t tests with pooled SD 
+
+data:  ttestdata$yield and ttestdata$country_or_area 
+
+                         Canada  France  Germany India   Mexico  Portugal Russian Federation United Kingdom
+France                   1.00000 -       -       -       -       -        -                  -             
+Germany                  1.1e-09 1.7e-10 -       -       -       -        -                  -             
+India                    < 2e-16 < 2e-16 5.7e-12 -       -       -        -                  -             
+Mexico                   0.00148 0.00037 0.00231 < 2e-16 -       -        -                  -             
+Portugal                 5.1e-07 2.8e-06 < 2e-16 < 2e-16 2.4e-14 -        -                  -             
+Russian Federation       4.4e-06 2.1e-05 < 2e-16 < 2e-16 4.4e-13 1.00000  -                  -             
+United Kingdom           4.6e-09 2.8e-08 < 2e-16 < 2e-16 < 2e-16 0.80867  0.58201            -             
+United States of America < 2e-16 < 2e-16 0.00231 2.7e-05 2.2e-09 < 2e-16  < 2e-16            < 2e-16       
+
+P value adjustment method: holm 
+"

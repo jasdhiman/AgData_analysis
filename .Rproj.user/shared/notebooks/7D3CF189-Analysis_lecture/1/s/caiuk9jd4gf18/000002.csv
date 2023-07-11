@@ -1,0 +1,5 @@
+"0","```r
+ggsave(\"grapes.png\", temp_plot)
+```"
+"1","Saving 7 x 7 in image
+"

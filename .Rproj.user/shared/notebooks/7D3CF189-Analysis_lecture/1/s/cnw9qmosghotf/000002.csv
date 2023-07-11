@@ -1,0 +1,6 @@
+"0","```r
+n_distinct(cropdata$country_or_area)
+
+```"
+"1","[1] 258
+"

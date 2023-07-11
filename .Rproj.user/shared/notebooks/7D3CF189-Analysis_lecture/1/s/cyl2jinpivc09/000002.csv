@@ -1,0 +1,6 @@
+"0","```r
+# geometry changed from histogram to boxplot
+cropdata7 %>%
+  ggplot(aes(x=yield)) +
+  geom_boxplot()
+```"

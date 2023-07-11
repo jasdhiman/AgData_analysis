@@ -1,0 +1,7 @@
+"0","```r
+# geom_line function
+cropdata7 %>%
+  filter(category == 'grapes' & country_or_area == 'Canada') %>%
+  ggplot(aes(x = year, y = yield)) +
+  geom_line()
+```"

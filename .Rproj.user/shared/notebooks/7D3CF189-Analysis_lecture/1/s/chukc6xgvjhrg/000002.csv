@@ -1,0 +1,4 @@
+"0","```r
+cropdata3 %>%
+  spread(parameter, value) -> cropdata4
+```"

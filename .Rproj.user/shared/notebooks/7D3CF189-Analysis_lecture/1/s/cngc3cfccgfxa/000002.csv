@@ -1,0 +1,8 @@
+"0","```r
+# using geom_point function
+temp_plot + 
+  geom_point(shape=23, fill=\"red\", color = \"black\", size=3) -> temp_plot
+
+# viewing
+temp_plot
+```"

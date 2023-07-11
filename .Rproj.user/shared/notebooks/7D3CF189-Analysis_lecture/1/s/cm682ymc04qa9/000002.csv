@@ -1,0 +1,5 @@
+"0","```r
+# rotating the text
+temp_plot + 
+  theme(axis.text.x = element_text(angle = 90))
+```"

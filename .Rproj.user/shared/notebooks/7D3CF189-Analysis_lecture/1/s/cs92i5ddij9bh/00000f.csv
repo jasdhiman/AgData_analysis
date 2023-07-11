@@ -1,0 +1,2 @@
+"0","cropdata4 %>%"
+"0","  mutate(yield = (`Production Quantity_tonnes`/`Area Harvested_Ha`)) -> cropdata5"

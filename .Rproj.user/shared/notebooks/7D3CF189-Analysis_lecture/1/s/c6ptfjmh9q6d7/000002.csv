@@ -1,0 +1,7 @@
+"0","```r
+# use x or y for horizontal or vertical plots respectively
+cropdata7 %>%
+  filter(category == 'grapes') %>%
+  ggplot(aes(y = yield)) +
+  geom_boxplot()
+```"

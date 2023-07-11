@@ -1,0 +1,7 @@
+"0","```r
+temp_plot + 
+  theme(legend.position = \"none\") -> temp_plot
+
+#viewing
+temp_plot
+```"

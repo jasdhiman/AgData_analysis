@@ -1,0 +1,11 @@
+"0","```r
+# using the color, fill, and alpha argument in the boxplot function
+cropdata7 %>%
+  filter(category == 'grapes') %>%
+  ggplot(aes(x = reorder(country_or_area, -yield), y = yield)) +
+  geom_boxplot(color = 'black', fill = 'green', alpha = 0.2) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3)) +
+  ggtitle('Distribution of Grape Yields Across Selected Countries, 1991-2000 (tonnes/Ha)')+
+  ylab('Yield (tonnes/Ha)') +
+  xlab('Country')
+```"

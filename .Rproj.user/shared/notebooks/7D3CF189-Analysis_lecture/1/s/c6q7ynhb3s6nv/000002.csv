@@ -1,0 +1,7 @@
+"0","```r
+cropdata7 %>%
+  filter(category == 'grapes') %>%
+  ggplot(aes(x = reorder(country_or_area, yield), y = yield)) +
+  geom_boxplot() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.3))
+```"

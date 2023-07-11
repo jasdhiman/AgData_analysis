@@ -1,0 +1,16 @@
+"0","```r
+# use filter and in operator %in%
+cropdata2 %>%
+  filter(country_or_area %in% countries &
+           year %in% req_years &
+           parameter %in% req_parameters) -> cropdata3
+
+```"
+"1","Error in `filter()`:
+ℹ In argument: `&...`.
+Caused by error:
+! object 'req_parameters' not found
+Backtrace:
+ 1. cropdata2 %>% ...
+ 9. parameter %in% req_parameters
+"

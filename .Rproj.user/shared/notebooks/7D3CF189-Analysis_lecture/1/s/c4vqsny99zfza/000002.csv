@@ -1,0 +1,45 @@
+"0","```r
+# use frequency table to make a selection
+table(cropdata7$category)
+
+```"
+"1","
+            agave_fibres_nes           almonds_with_shell   anise_badian_fennel_corian                       apples 
+                          10                           40                           29                           89 
+                    apricots                    arecanuts                   artichokes                    asparagus 
+                          79                           10                           30                           60 
+                    avocados                      bananas                       barley                    beans_dry 
+                          40                           40                           89                           70 
+                 beans_green                  berries_nes                  blueberries  broad_beans_horse_beans_dry 
+                          80                           40                           28                           69 
+                   buckwheat cabbages_and_other_brassicas                  canary_seed                       carobs 
+                          39                           89                           20                           20 
+         carrots_and_turnips       cashew_nuts_with_shell                      cassava              castor_oil_seed 
+                          89                           18                           20                           29 
+   cauliflowers_and_broccoli                  cereals_nes      cereals_rice_milled_eqv                cereals_total 
+                          89                            9                           89                           89 
+                    cherries                    chestnuts                   chick_peas                chicory_roots 
+                          86                           29                           44                           10 
+    chillies_and_peppers_dry   chillies_and_peppers_green             citrus_fruit_nes           citrus_fruit_total 
+                          23                           70                           24                           50 
+          coarse_grain_total                  cocoa_beans                     coconuts                 coffee_green 
+                          89                           20                           20                           30 
+                cow_peas_dry                  cranberries       cucumbers_and_gherkins                     currants 
+                          10                           20                           89                           39 
+                       dates         eggplants_aubergines              fibre_crops_nes          fibre_crops_primary 
+                          20                           50                           10                           68 
+                        figs           flax_fibre_and_tow      fruit_excl_melons_total              fruit_fresh_nes 
+                          50                           28                           89                           49 
+    fruit_tropical_fresh_nes                       garlic                       ginger                 gooseberries 
+                          20                           59                           20                           29 
+      grapefruit_inc_pomelos                       grapes        groundnuts_with_shell         hazelnuts_with_shell 
+                          50                           89                           40                           39 
+              hemp_tow_waste                     hempseed                         hops                         jute 
+                          18                           19                           59                           10 
+       jute_jute_like_fibres                   kiwi_fruit    leguminous_vegetables_nes             lemons_and_limes 
+                          19                           40                           51                           50 
+                     lentils          lettuce_and_chicory                      linseed                       lupins 
+                          60                           80                           79                           33 
+                       maize 
+                          10 
+"

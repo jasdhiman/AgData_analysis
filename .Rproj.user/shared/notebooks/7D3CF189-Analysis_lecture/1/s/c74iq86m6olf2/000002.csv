@@ -1,0 +1,8 @@
+"0","```r
+# we will use MUTATE function
+  # mutate is used to create, delete, or modify columns
+
+cropdata %>%
+  mutate(parameter = paste(element, unit, sep = '_'), element = NULL, unit = NULL) -> cropdata2 
+
+```"

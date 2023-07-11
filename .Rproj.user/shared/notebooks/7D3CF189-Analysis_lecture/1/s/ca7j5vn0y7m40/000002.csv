@@ -1,0 +1,14 @@
+"0","```r
+# for loop example
+
+for (i in colnames(cropdata)) {
+  print(paste('number of unique values for variable ', i,  ' are: ', n_distinct(cropdata[i]), sep = ''))
+}
+```"
+"1","[1] \"number of unique values for variable country_or_area are: 258\"
+[1] \"number of unique values for variable element are: 11\"
+[1] \"number of unique values for variable year are: 48\"
+[1] \"number of unique values for variable unit are: 6\"
+[1] \"number of unique values for variable value are: 254619\"
+[1] \"number of unique values for variable category are: 85\"
+"

@@ -1,0 +1,32 @@
+{
+    "id": "86DC354D",
+    "path": "C:/AgData_analysis/Analysis_lecture.Rmd",
+    "project_path": "Analysis_lecture.Rmd",
+    "type": "r_markdown",
+    "hash": "203309404",
+    "contents": "",
+    "dirty": false,
+    "created": 1689050630974.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "108:7107.2001953125",
+        "cursorPosition": "211,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1689051004,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1689051050140,
+    "read_only": false,
+    "read_only_alternatives": []
+}

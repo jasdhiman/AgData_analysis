@@ -1,0 +1,8 @@
+"0","```r
+# use stat summary function along the y-axis
+temp_plot + 
+  stat_summary(fun = \"mean\", color = 'red', size = 0.3) -> temp_plot
+
+# viewing
+temp_plot
+```"

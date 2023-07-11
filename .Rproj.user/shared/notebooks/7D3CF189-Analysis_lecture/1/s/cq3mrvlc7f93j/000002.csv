@@ -1,0 +1,4 @@
+"0","```r
+cropdata4 %>%
+  mutate(yield = (`Production Quantity_tonnes`/`Area Harvested_Ha`)) -> cropdata5
+```"

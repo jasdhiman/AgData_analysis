@@ -1,0 +1,5 @@
+"0","```r
+# defining position of the legend by using legend.position argument
+temp_plot + 
+  theme(legend.position = \"bottom\")
+```"

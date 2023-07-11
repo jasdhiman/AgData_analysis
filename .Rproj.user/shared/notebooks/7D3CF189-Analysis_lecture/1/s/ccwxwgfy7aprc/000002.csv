@@ -1,0 +1,4 @@
+"0","```r
+cropdata %>%
+  distinct(country_or_area) -> regions2
+```"

@@ -1,0 +1,5 @@
+"0","```r
+cropdata7 %>%
+  ggplot(aes(x=yield)) +
+  geom_histogram(bins = 100)
+```"

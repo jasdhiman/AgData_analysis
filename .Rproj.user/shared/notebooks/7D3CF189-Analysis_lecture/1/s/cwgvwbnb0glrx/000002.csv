@@ -1,0 +1,12 @@
+"0","```r
+summary(cropdata6)
+
+```"
+"1"," country_or_area         year        category         Area Harvested_Ha   Production Quantity_tonnes     yield         
+ Length:3304        Min.   :1991   Length:3304        Min.   :        0   Min.   :        2          Min.   : 0.08855  
+ Class :character   1st Qu.:1993   Class :character   1st Qu.:     2866   1st Qu.:    11702          1st Qu.: 1.63793  
+ Mode  :character   Median :1996   Mode  :character   Median :    17911   Median :   101225          Median : 5.36227  
+                    Mean   :1996                      Mean   :  2193253   Mean   :  7119197          Mean   :     Inf  
+                    3rd Qu.:1998                      3rd Qu.:   188750   3rd Qu.:   931250          3rd Qu.:12.34096  
+                    Max.   :2000                      Max.   :102402400   Max.   :355877192          Max.   :     Inf  
+"
