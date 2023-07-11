@@ -40,7 +40,7 @@ Students have taken my previous class on:
 
 The following Github repository contains the code used for this class, the data, as well as documents containing instructions on installation of R and RStudio:
 
-xyz.com
+<https://github.com/jasdhiman/AgData_analysis>
 
 ### Data Source
 
@@ -531,7 +531,9 @@ Assignment: Grid plot showing yield trends for apple, barley and grapes for the 
 
 ### Complete Analysis
 
-Code and associated files can be found on my Github repository
+Code and associated files can be found on my Github repository:
+
+<https://github.com/jasdhiman/AgData_analysis>
 
 -   The code for lecture class
 
@@ -562,6 +564,8 @@ Variety of codes for data wrangling, visualization, modelling, parallel computin
 -   SAS
 
 -   MATLAB
+
+<https://github.com/jasdhiman>
 
 ### Contact
 
